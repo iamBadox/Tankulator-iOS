@@ -3,6 +3,12 @@
 All notable changes to Tankulator iOS will be documented here.
 
 ---
+## [Security] – 2026-04-16
+
+### Security
+- Performed a full security scan using `gitleaks` (secrets detection) and `semgrep` (SAST, 1059 rules). No secrets, hardcoded credentials, insecure URLs, or high-severity issues were found. All clear.
+
+---
 
 ## [1.0.0] – 2026-03-27
 

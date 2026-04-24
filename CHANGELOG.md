@@ -10,6 +10,13 @@ All notable changes to Tankulator iOS will be documented here.
 
 ---
 
+## [1.0.1] – 2026-04-24
+
+### Added
+- App icon: orange fuel drop and yellow lightning bolt on a deep navy background, representing petrol vs electric
+
+---
+
 ## [1.0.0] – 2026-03-27
 
 ### Added
